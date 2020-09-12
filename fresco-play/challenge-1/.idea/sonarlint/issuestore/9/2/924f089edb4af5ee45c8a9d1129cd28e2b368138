@@ -1,0 +1,22 @@
+
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕË¹şÿÿÿÿ
+g	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° “ÿ
+0
+java:S1220""Move this file to a named package.
+G
+java:S1128"1Remove this unused import 'java.io.StringReader'.(¡Ö£
+^
+java:S1128"CRemove this unused import 'jdk.nashorn.internal.parser.JSONParser'.(©ß÷‰ıÿÿÿÿ
+z
+java:S1149("_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+¤
+java:S1130"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(¸9
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(õÂÂ¥
+S	java:S106="9Replace this use of System.out or System.err by a logger.(×“çŞùÿÿÿÿ
+i	java:S116Ô"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æƒı¬
+q	java:S116Ø"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ô†úÿÿÿÿ
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕË¹şÿÿÿÿ
+i	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëşå¤üÿÿÿÿ
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(° “ÿ
+d	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü·çÈ

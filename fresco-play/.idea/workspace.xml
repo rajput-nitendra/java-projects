@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11887fb6-5dc6-4b66-914c-f889579f881c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/exception/ApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/017a1ad3-3375-4fa7-a997-56c9d49e77f1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/017a1ad3-3375-4fa7-a997-56c9d49e77f1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/src/main/java/com/example/project/RibbonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/src/main/java/com/example/project/RibbonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ConsumerService-2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ProducerService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ProducerService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ProducerService/src/main/java/com/example/project/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/130073eb-31ff-4a2d-833f-fa21f22ef7c6/ProducerService/src/main/java/com/example/project/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/ConsumerService/src/main/java/com/example/project/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/ConsumerService/src/main/java/com/example/project/ConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/ConsumerService/src/main/java/com/example/project/ConsumerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/ConsumerService/src/main/java/com/example/project/ConsumerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/Producer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2f449d1a-93d3-463d-9c1d-23e18304b234/Producer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/SpringBootControllersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/SpringBootControllersApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/controller/MyControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/java/com/fresco/springboot/controller/MyControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/4d7dc048-a58d-4c2f-83b2-83ebf9614d06/SpringBootControllers/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/java/com/example/demo/employee/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/java/com/example/demo/employee/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/test/java/com/example/demo/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/95ace22d-e2cf-4f64-886b-9bf3c5d524c4/src/test/java/com/example/demo/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acd4a514-62f4-4e29-959e-e3f40a8c6477/ConsumerService/src/main/java/com/example/project/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/acd4a514-62f4-4e29-959e-e3f40a8c6477/ConsumerService/src/main/java/com/example/project/ConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/java/com/example/demo/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/java/com/example/demo/EurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/Eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/Consumer2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/Consumer2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/inventorycontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/inventorycontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/service/consumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/java/com/example/project/service/consumerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/consumer-2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/InventoryManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/InventoryManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/controller/inventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/controller/inventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/java/com/example/flywaydb/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/e93bdc22-0fb1-4a7e-93cc-1f5f9e51c5d9/producer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb82e724-cbcb-40ac-93e7-dd6ba560243b/src/main/java/com/example/project/HospitalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eb82e724-cbcb-40ac-93e7-dd6ba560243b/src/main/java/com/example/project/HospitalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffaaba58-7f58-4fcc-ac1c-f08de67a6047/SpringBootControllers/src/main/java/com/fresco/springboot/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ffaaba58-7f58-4fcc-ac1c-f08de67a6047/SpringBootControllers/src/main/java/com/fresco/springboot/exception/UserNotFoundException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/017a1ad3-3375-4fa7-a997-56c9d49e77f1" />
+  </component>
+  <component name="ProjectId" id="1dXBxJplc7uoxWverFayGltZ19M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11887fb6-5dc6-4b66-914c-f889579f881c" name="Default Changelist" comment="" />
+      <created>1592561802793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592561802793</updated>
+      <workItem from="1592561804838" duration="80000" />
+      <workItem from="1593810771905" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="32" key="new project wizard" timestamp="1592561858917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592561858917" />
+  </component>
+</project>
